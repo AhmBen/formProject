@@ -1,0 +1,41 @@
+#main {
+    width: 450px;
+    height:auto;
+}
+
+.red {
+    color:red;
+}
+.blue {
+    color:blue;
+}
+.green {
+    color:green;
+}
+ul,li{
+    list-style  : none;
+    padding:0;
+    margin:0;
+  }
+
+  li {
+      margin:10px;
+   }
+
+  #result {
+ border-width:2px;
+ border-style:solid ;
+ border-color:black;
+ min-height: 160px;
+  }
+
+.ligne{
+    margin-top: 50px;
+}
+
+img.photo {
+    float: right;
+    margin:5px;
+    width: 130px;
+    height: 130px;
+}
